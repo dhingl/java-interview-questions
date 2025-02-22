@@ -8,5 +8,6 @@ Java Interview Questions
 6. Explain different implementation of spring data jpa
 7. How do you optmized database using spring data jpa
 8. What is spring security
-9. How to limit api request to 100/day for particular API.
+9. How to limit api request to 100/day for particular API.g
+10. How to add functionaly to show pages on role basis.
     
