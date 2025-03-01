@@ -10,4 +10,10 @@ Java Interview Questions
 8. What is spring security
 9. How to limit api request to 100/day for particular API.g
 10. How to add functionaly to show pages on role basis.
+11. Design Patterns 
+12. Factory design pattern 
+13. Singleton Design Pattern 
+14.JWT token  
+15.Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+16.Reverse Integer input= 123 output= 321
     
