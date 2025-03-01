@@ -13,7 +13,8 @@ Java Interview Questions
 11. Design Patterns 
 12. Factory design pattern https://medium.com/nerd-for-tech/understanding-factory-method-design-pattern-4d7ba8f0dfc4
 13. Singleton Design Pattern 
-14.JWT token  
+14.JWT token
 15.Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 16.Reverse Integer input= 123 output= 321
+17. Difference Between REST and SOAP APIs
     
