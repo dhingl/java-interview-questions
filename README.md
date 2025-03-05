@@ -22,6 +22,7 @@ Java Interview Questions
     (Airtel R2)
 19. Publisher -> can publish single or multiple topic, Subscriber can subscribe and read multiple topic, if all subscriber read all topic topic will be deleted (Can be solved using observer design pattern).
 20. thread locking and  than how to prevent it.
+
 (Google)
 21. parse csv using java.
     
