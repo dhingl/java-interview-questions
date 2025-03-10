@@ -22,9 +22,8 @@ Java Interview Questions
     (Airtel R2)
 19. Publisher -> can publish single or multiple topic, Subscriber can subscribe and read multiple topic, if all subscriber read all topic topic will be deleted (Can be solved using observer design pattern).
 20. thread locking and  than how to prevent it.
-
 (Google)
 21. parse csv using java.
-22. what is marker interface.
-23. explain micro service architecture, explain how request comes to micro service.
+23. what is marker interface.
+25. explain micro service architecture, explain how request comes to micro service.
     
