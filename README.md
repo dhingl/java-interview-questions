@@ -24,6 +24,7 @@ Java Interview Questions
 20. thread locking and  than how to prevent it.
 (Google)
 21. parse csv using java.
-23. what is marker interface.
-25. explain micro service architecture, explain how request comes to micro service.
+22. what is marker interface.
+23. explain micro service architecture, explain how request comes to micro service.
+
     
