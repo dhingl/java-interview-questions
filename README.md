@@ -25,4 +25,6 @@ Java Interview Questions
 
 (Google)
 21. parse csv using java.
+22. what is marker interface.
+23. explain micro service architecture, explain how request comes to micro service.
     
