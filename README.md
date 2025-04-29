@@ -26,3 +26,56 @@ Java Interview Questions
 21. parse csv using java.
 22. what is marker interface.
 23. explain micro service architecture, explain how request comes to micro service.
+
+24. what is indexing
+comparator comparable 
+how to define beans in spring boot
+if beans are get at two deferent loactions what will be there hashcode
+removing from enhanced for loop, difference in list iterartor and iterator 
+hashcode of set 
+if 2 same objects are added in set what will be its size 
+curdrepository and jparesposity defeince in them 
+diff in @enity and @table 
+
+how to define thread using runnable lambda expression
+Convert list in to map asked in 2 interviewsa
+
+try {
+}catch(Exception e)
+{
+}catch(Arthiemetic e)
+{
+}
+which one will execute
+
+
+
+
+Java 8 features
+list set differencence 
+string immutable
+String s1=new ("Helo"),String s2=new ("Helo") what will be in scp and heap 
+executor
+synchronized 
+
+
+
+public class Main
+{
+	public static void main(String[] args) {
+		Main main=new Main();
+		System.out.print(main.factorial(4));
+	}
+	
+	private int factorial(int a)
+	{
+	    int product=1;
+	    while(a>1)
+	    {
+	        product=product*a;
+	        a--;
+	    }
+	    return product;
+	}
+}
+USING LAMBDA EXPRESSION TO CREATE THREAD
