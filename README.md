@@ -28,19 +28,17 @@ Java Interview Questions
 23. explain micro service architecture, explain how request comes to micro service.
 
 24. what is indexing
-comparator comparable 
-how to define beans in spring boot
+25.comparator comparable 
+26. how to define beans in spring boot
+27. HashCode of 2 differnt autowired same bean in springboot
 if beans are get at two deferent loactions what will be there hashcode
-removing from enhanced for loop, difference in list iterartor and iterator 
-hashcode of set 
-if 2 same objects are added in set what will be its size 
-curdrepository and jparesposity defeince in them 
-diff in @enity and @table 
-
-how to define thread using runnable lambda expression
-Convert list in to map asked in 2 interviewsa
-
-try {
+28 removing from enhanced for loop, difference in list iterartor and iterator 
+29 hashcode of set  if 2 same objects are added in set what will be its size 
+30 curdrepository and jparesposity defeince in them 
+31 diff in @enity and @table 
+32 how to define thread using runnable lambda expression
+33 Convert list in to map asked in 2 interviewsa
+ 34 try {
 }catch(Exception e)
 {
 }catch(Arthiemetic e)
@@ -48,36 +46,45 @@ try {
 }
 which one will execute
 
-Relation of TCP, UDP and http 
-whY websockets are needed 
-difference between abstract design pattern and factory design pattern.
+35 Relation of TCP, UDP and http 
+36 why executor 
+37 whY websockets are needed 
+38 difference between abstract design pattern and factory design pattern.
+39 Java 8 features
+40 list set differencence 
+41 string immutable
+42 String s1=new ("Helo"),String s2=new ("Helo") what will be in scp and heap 
+43 synchronized 
+44 factorial program 
+45 valid paranthesis
+46  return query pararms as map :- url = http://xyz.com?a=3&b=4&c=4
 
 
-Java 8 features
-list set differencence 
-string immutable
-String s1=new ("Helo"),String s2=new ("Helo") what will be in scp and heap 
-executor
-synchronized 
-
-
-
-public class Main
+public Map<String,String> ConvertQueryParam(String str)
 {
-	public static void main(String[] args) {
-		Main main=new Main();
-		System.out.print(main.factorial(4));
-	}
-	
-	private int factorial(int a)
-	{
-	    int product=1;
-	    while(a>1)
-	    {
-	        product=product*a;
-	        a--;
-	    }
-	    return product;
-	}
+
+int index=str.indexOf("?");
+str=str.substring(index,str.length());
+   String[] queryParams= str.trim().split("&");
+
+Map<String,String> map=new HashMap<>();
+
+for(int i=0;i<queryParams.length();i++)
+{
+String[] keyValuePair=queryParams.split("=");
+   map.put(keyValuePair[0],keyValuePair[1]);
 }
-USING LAMBDA EXPRESSION TO CREATE THREAD
+
+return map;
+
+47 
+Patients
+patientId, diet_id , allergry_id
+
+
+PatientInfo
+Id , Name, Address ,
+
+
+Patient info which are not there in Patients. using sq
+    
