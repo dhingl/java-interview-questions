@@ -48,7 +48,9 @@ try {
 }
 which one will execute
 
-
+Relation of TCP, UDP and http 
+whY websockets are needed 
+difference between abstract design pattern and factory design pattern.
 
 
 Java 8 features
