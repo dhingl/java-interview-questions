@@ -88,4 +88,8 @@ Id , Name, Address ,
 
 
 Patient info which are not there in Patients. using sq
+
+
+48 Why sockets are used 
+49 how sockets are used to create tcp connection
     
