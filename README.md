@@ -79,7 +79,8 @@ return map;
 
 47 
 Patients
-patientId, diet_id , allergry_id
+patientId, diet_id , allergry_id  
+SELECT * FROM Patients RIGHT JOIN  PatientInfo  on Patients.patientId=PatientInfo.Id  where patientId IS NULL;
 
 
 PatientInfo
