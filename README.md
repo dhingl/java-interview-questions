@@ -92,4 +92,12 @@ Patient info which are not there in Patients. using sq
 
 48 Why sockets are used 
 49 how sockets are used to create tcp connection
+
+
+
+Clear Trail Technology
+1. What is the difference between monolithic and microservice architecture and how does it affect the product?
+2. What is the difference between TCP and UDP?
+3. In map, for example, we have key values and we need to find what are the, like, in the values there are repeating characters. First question, we need to remove the key which has repeating characters. Second question, we need to find the value which has the most repeating character and its count.
+4. We have one table, employee table. In the employee table, we have employee name and department and ID. For example, and the values are one row is Lavina department. And we have also a role as well. So Lavina with role as software developer with ID 1 and our second value is Sagar with ID 2 and a role as a DevOps engineer. We need an output as Lavina with software engineer, Lavina with DevOps, Sagar with software engineer and Sagar with DevOps. How can we print a value like this using SQL?
     
