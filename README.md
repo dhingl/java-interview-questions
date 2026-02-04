@@ -102,5 +102,6 @@ Clear Trail Technology
 4. We have one table, employee table. In the employee table, we have employee name and department and ID. For example, and the values are one row is Lavina department. And we have also a role as well. So Lavina with role as software developer with ID 1 and our second value is Sagar with ID 2 and a role as a DevOps engineer. We need an output as Lavina with software engineer, Lavina with DevOps, Sagar with software engineer and Sagar with DevOps. How can we print a value like this using SQL?
 5. What is Concurrent Modification Exception and how to solve in map?
 6. We are creating 12 threads with on a core CPU of 4. Will this work? If yes, how it will work? And who handles threads, JVM or CPU?
+7. If you were given a chance to learn a new technology, how would you like do it? Like what do you follow directly jumping into the uh what we say, documents or what will you do? And second question is, if you are given low time for learning new thing and doing it, how will you do it? And you are given to learn new thing with a signed junior, how will you do it?
    
     
